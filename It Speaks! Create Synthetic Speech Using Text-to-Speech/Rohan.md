@@ -1,4 +1,4 @@
-It Speaks! Create Synthetic Speech Using Text-to-Speech || GSP222
+**It Speaks! Create Synthetic Speech Using Text-to-Speech || GSP222**
 
 
 > **Note:** VPC Networks - Controlling Access (GSP213)
