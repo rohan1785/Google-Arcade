@@ -15,9 +15,9 @@
 ## ☁️ Run in Cloud Shell:
 
 ```bash
-curl -LO raw.githubusercontent.com/rohan1785/Arcade-Google-Cloud-Labs/refs/heads/main/APIs%20Explorer%3A%20App%20Engine/TechCode.sh
-sudo chmod +x TechCode.sh 
-./TechCode.sh
+curl -LO raw.githubusercontent.com/rohan1785/Google-Arcade-2026/refs/heads/main/APIs%20Explorer%3A%20App%20Engine/Rohan.sh
+sudo chmod +x Rohan.sh 
+./Rohan.sh
 ```
 
 </div>
