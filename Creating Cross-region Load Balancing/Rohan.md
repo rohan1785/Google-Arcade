@@ -20,7 +20,7 @@ If you found this helpful, please **Subscribe** to [Tech With Ro](http://www.you
 ## ☁️ Run in Cloud Shell:
 
 ```bash
-curl -LO raw.githubusercontent.com/rohan1785/Google-Arcade-2026/refs/heads/main/Creating%20Cross%20region%20Load%20Balancing/Rohan.sh
+curl -LO raw.githubusercontent.com/rohan1785/Google-Arcade-2026/refs/main/Creating%20Cross%20region%20Load%20Balancing/Rohan.sh
 sudo chmod +x Rohan.sh
 ./Rohan.sh
 ```
